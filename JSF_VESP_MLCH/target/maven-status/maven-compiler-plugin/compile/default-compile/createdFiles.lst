@@ -1,0 +1,7 @@
+com\itsqm\servlet\CategoriasServlet.class
+com\itsqm\acceso\Clientes.class
+com\itsqm\acceso\Productos.class
+com\itsqm\servlet\ClientesServlet.class
+com\itsqm\servlet\ProductosServlet.class
+com\itsqm\acceso\Categorias.class
+com\itsqm\modelo\CBDD.class
